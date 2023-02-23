@@ -1,4 +1,4 @@
-# Meet Temitope (https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif)
+# Meet Temitope ![](https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif)
 Hi there! I'm Temitope, a linguist turned data analyst. I decided to transition to data in 2019, and I've been teaching myself various tools such as SQL, Python, Power BI, and Tableau ever since.
 
 My passion for languages and data analysis has allowed me to develop a unique perspective and approach to problem-solving. By combining my analytical skills with my love for storytelling, I am able to deliver compelling data-driven insights that are both informative and engaging.
