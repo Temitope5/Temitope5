@@ -5,7 +5,7 @@ My passion for languages and data analysis has allowed me to develop a unique pe
 
 On my Github page, you will find a showcase of my projects and data visualizations that demonstrate my expertise in data analysis and my ability to translate complex data into actionable insights. So, join me on my data journey and get ready to be amazed by the power of data storytelling!
 ## Projects and Guides
-In my portfolio, you can find my projects and guides on data analytics  
+In my portfolio, you can find my [projects](https://github.com/Temitope5/Portfolio_Projects)  and guides on data analytics  
 
 ## My Skills
 -   Data preparation, quality assurance, and analysis
